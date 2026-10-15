@@ -26,3 +26,18 @@ Priority order (Jamie): Skin > Appearance > Mobility > Body (to confirm) > Sleep
 ## Sleep & light (current 8/10 → maintain ≥8/10)
 - Fixed 06:00 wake ≥6 days/week; ≥7 h asleep (Suunto) on average
 - Blackout or eye mask in place before 2027-03-20
+
+## 90-day targets (protocol v2, by 31 Jan 2027)
+| Item | Target | Metric source |
+|---|---|---|
+| SPF adherence | ≥90% of days | Sunday log |
+| Cheek redness | 7-day mean ≥50% below baseline, or a GP/pharmacist plan in place | daily score |
+| Resistance training | ≥85% of planned sessions (≥20 of 24) | Sunday log |
+| Push-ups / dead hang | +25% vs baseline | Wk 13 retest |
+| Protein | ≥1.2 g/kg on ≥5 of 7 logged days | Wk 10 + Wk 13 3-day log |
+| Steps | 7-day avg ≥8,000 (Wk 9→) | Suunto |
+| VO2max estimate | not lower than baseline −3% | Suunto |
+| Interdental | nightly ≥85%; no bleeding after Wk 9 | Sunday log |
+| Dentist + eye test | booked by Wk 1, eye test done by Wk 4 | admin |
+| Blood panel | done by Wk 4 (if approved) | result |
+| Sleep | fixed 06:00 wake ≥6/7 days; ≥7 h asleep avg | Suunto |
